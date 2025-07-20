@@ -69,7 +69,7 @@ npm start
 
 ## 📬 Contact & Support
 
-* 💬 Telegram: [@your\_support\_bot](https://t.me/danirueaq)
+* 💬 Telegram: [danirueaq](https://t.me/danirueaq)
 * 📧 Telegram chanel:[Sectools1]
 * .(https://t.me/Sectools1).
 
